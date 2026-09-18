@@ -13,7 +13,9 @@ hold too briefly and he falls short, too long and he sails past.
   withers.
 - **Mind the shears.** Some pots come with garden shears on their own schedule.
 - **No last level.** Only your best run, and the next one.
-- **Completely offline.** No account, no ads, no purchases, no internet needed.
+- **Play anywhere.** No account, no sign-in, and no internet needed to play.
+- **A second chance, if you want one.** On iPhone and iPad, a run that ends can
+  be revived once by watching a short video. It only plays if you ask.
 
 ## Platforms
 
@@ -39,8 +41,10 @@ You can also email **ali.ustaoglu@icloud.com**.
 
 ## Privacy
 
-Chiman collects nothing at all and makes no network requests. See
-[PRIVACY.md](PRIVACY.md).
+The developer collects nothing. The Apple Watch, Apple TV and Mac versions
+make no network requests at all. On iPhone and iPad, the optional revive video
+is served by Google AdMob, as non-personalized ads with no tracking. See
+[PRIVACY.md](PRIVACY.md) for exactly what that involves.
 
 ## Source
 

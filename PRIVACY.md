@@ -2,32 +2,71 @@
 
 _Last updated: September 2026_
 
-Chiman is designed with your privacy in mind. **The app does not collect,
-store, transmit, or share any personal data.**
+Chiman is a single-player game with no accounts and no sign-in. **We, the
+developer, do not collect or receive any personal data from you.**
 
-## What we collect
+From version 1.1, the iPhone and iPad version can show one kind of
+advertisement, and only when you ask for it. That advertisement is delivered by Google, and showing it
+involves the data described below. **The Apple Watch, Apple TV and Mac
+versions contain no advertising and make no network requests at all.**
 
-**Nothing.** Chiman does not collect any personal information or usage data.
+## The one advertisement, and when it appears
+
+When a run ends on iPhone or iPad, the game may offer **"Water him"**: watch one
+short video and Chiman is revived once. The video plays only if you tap that
+button. There are no banners, no pop-ups and no advertisements you did not ask
+for. If you never tap it, no advertisement is ever shown to you.
+
+## Data involved in showing that advertisement (iPhone and iPad only)
+
+The video is served by **Google AdMob**. To request and deliver an ad, Google's
+software in the app may process:
+
+- your device's **IP address**, from which Google may infer your **approximate
+  location** (country or city level);
+- **device information** such as model, operating-system version, language and
+  screen size;
+- **ad interaction data** — that an ad was loaded, shown, tapped or watched to
+  the end;
+- **diagnostic data** about the ad software itself.
+
+Chiman asks Google for **non-personalized ads only**. The app **never requests
+Apple's advertising identifier (IDFA)**, never shows the "Allow tracking?"
+prompt, and does not track you across other companies' apps or websites.
+
+**RevenueCat**, a service the developer uses to measure ad performance,
+receives **anonymous counts of ad events** (an ad was shown, an ad earned a
+fraction of a cent) tied to a random identifier generated on your device. It
+receives no name, email address, contacts, photos or precise location, because
+the app never has them.
+
+Where the law requires it (for example in the EEA, the UK and Switzerland),
+Google's consent form appears before any ad is requested, and ads are requested
+according to your choice.
+
+How Google uses data: https://policies.google.com/technologies/partner-sites
+RevenueCat's privacy policy: https://www.revenuecat.com/privacy
 
 ## Data stored on your device
 
-- Your **best score**, your **best run length**, and your **music and effects
-  settings** are saved **on your device**, in the app's own settings storage.
-  They never leave the device and are not accessible to us or to any third
-  party.
+Your **best score**, your **best run length**, and your **music and effects
+settings** are saved **on your device**, in the app's own settings storage.
+They never leave the device and are not accessible to us.
 
 ## What we don't do
 
-- No analytics or tracking
-- No advertising
-- No third-party SDKs
-- No in-app purchases
 - No accounts or sign-in of any kind
-- **No network requests at all** — the game plays fully offline
+- No analytics of how you play
+- No advertisements you did not ask for
+- No tracking across apps or websites, and no use of the advertising identifier
+- No in-app purchases
+- No advertising, and no network requests at all, on Apple Watch, Apple TV or Mac
 
 ## Children's privacy
 
-Because Chiman collects no data of any kind, it collects no data from children.
+Chiman is not directed at children and is not in the App Store's Kids
+category. The developer collects no data from anyone. Ads are requested as
+non-personalized for every player.
 
 ## Contact
 
