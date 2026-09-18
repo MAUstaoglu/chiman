@@ -42,7 +42,7 @@ You can also email **ali.ustaoglu@icloud.com**.
 ## Privacy
 
 The developer collects nothing. The Apple Watch, Apple TV and Mac versions
-make no network requests at all. On iPhone and iPad, the optional revive video
+have no ads and no purchases. On iPhone and iPad, the optional revive video
 is served by Google AdMob, as non-personalized ads with no tracking. See
 [PRIVACY.md](PRIVACY.md) for exactly what that involves.
 

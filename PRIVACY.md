@@ -6,9 +6,10 @@ Chiman is a single-player game with no accounts and no sign-in. **We, the
 developer, do not collect or receive any personal data from you.**
 
 From version 1.1, the iPhone and iPad version can show one kind of
-advertisement, and only when you ask for it. That advertisement is delivered by Google, and showing it
-involves the data described below. **The Apple Watch, Apple TV and Mac
-versions contain no advertising and make no network requests at all.**
+advertisement, and only when you ask for it, and sell one optional item. The
+advertisement is delivered by Google, and showing it involves the data
+described below. **The Apple Watch, Apple TV and Mac versions contain no
+advertising and no purchases.**
 
 ## The one advertisement, and when it appears
 
@@ -47,6 +48,20 @@ according to your choice.
 How Google uses data: https://policies.google.com/technologies/partner-sites
 RevenueCat's privacy policy: https://www.revenuecat.com/privacy
 
+## The Golden Can (in-app purchase, iPhone and iPad)
+
+From version 1.1 you can buy one optional item, the Golden Can, which lets
+you revive without watching a video. Apple handles the payment; the developer
+never sees your name, payment details or Apple Account. RevenueCat records that
+the purchase happened, against the same random identifier, so the app knows
+you own it and can restore it on a new device.
+
+## Game Center
+
+Your best score can appear on a Game Center leaderboard. That is Apple's
+service, under your Game Center settings and Apple's privacy policy; the app
+only sends the score. If you are not signed in to Game Center, nothing is sent.
+
 ## Data stored on your device
 
 Your **best score**, your **best run length**, and your **music and effects
@@ -59,8 +74,8 @@ They never leave the device and are not accessible to us.
 - No analytics of how you play
 - No advertisements you did not ask for
 - No tracking across apps or websites, and no use of the advertising identifier
-- No in-app purchases
-- No advertising, and no network requests at all, on Apple Watch, Apple TV or Mac
+- No advertising and no purchases on Apple Watch, Apple TV or Mac; their only
+  network use is the Game Center leaderboard
 
 ## Children's privacy
 
